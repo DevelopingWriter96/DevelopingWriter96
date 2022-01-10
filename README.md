@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+###🌱 I’m currently learning Javascript at Utah Valley University
+
+### I am a fan of Lego, Zelda, and an aspiring Fantasy Writer!
+
+### 🔭 I’m currently working on improving a React app from one of my old classes
+
 <!--
 **DevelopingWriter96/DevelopingWriter96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
