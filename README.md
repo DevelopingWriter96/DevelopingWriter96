@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-###🌱 I’m currently learning Javascript at Utah Valley University
+###🌱 I’m refining my skills in React.js
 
-### I am a fan of Lego, Zelda, and an aspiring Fantasy Writer!
+### 👯 I am looking for a professional Web Development team to join
 
-### 🔭 I’m currently working on improving a React app from one of my old classes
+### 📫 You can reach me at staceyrichard1996@gmail.com
 
 <!--
 **DevelopingWriter96/DevelopingWriter96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
