@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 🌱 I’m refining my skills in React.js
+### 🔭 I’m currently working on bettering my portfolio
 
 ### 👯 I am looking for a professional Web Development team to join
 
