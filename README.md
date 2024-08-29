@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 🔭 I’m currently working on bettering my portfolio
+### 🔭 I’m currently working on a javascript countdown app for my portfolio
 
 ### 👯 I am looking for a professional Web Development team to join
 
